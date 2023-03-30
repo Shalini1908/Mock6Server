@@ -1,7 +1,25 @@
 {
-  "users":[],
+  "users":[
+    {
+  "id":1,
+  "username":"email",
+  "email":"email@gmail.com",
+  "password":"123"
 
-  "tracker":[],
+  }
+],
 
-  "transaction": []
+  "tracker":[
+    {
+      "id":1,
+      "userID":"1",
+      "type":"",
+      "amount":"",
+      "date":""
+    
+      }
+
+  ],
+
+  "transaction": [{ "id" : 1 , "userID" : 1}]
 }
