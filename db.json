@@ -1,5 +1,12 @@
 {
-  "newuser":[],
+  "newuser":[
+    {
+    "name": "Email",
+    "level": "easy",
+    "score": 10
+ 
+    }
+  ],
   "play": [],
 
   "leaderboard": []
