@@ -1,10 +1,5 @@
 {
-  "newuser":[{
-   "name": "email",
-   "level":"Easy",
-   "score":10
-
-  }],
+  "newuser":[],
   "play": [],
 
   "leaderboard": []
