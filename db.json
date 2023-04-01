@@ -1,25 +1,11 @@
 {
-  "users":[
-    {
-  "id":1,
-  "username":"email",
-  "email":"email@gmail.com",
-  "password":"123"
+  "user":[{
+   "name": "email",
+   "level":"Easy",
+   "score":10
 
-  }
-],
-
-  "tracker":[
-    {
-      "id":1,
-      "userID":"1",
-      "type":"",
-      "amount":"",
-      "date":""
-    
-      }
-
-  ],
-
-  "transaction": [{ "id" : 1 , "userID" : 1}]
+  }],
+  "play": [],
+  
+  "leaderboard": []
 }
