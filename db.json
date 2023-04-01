@@ -1,11 +1,11 @@
 {
-  "user":[{
+  "newuser":[{
    "name": "email",
    "level":"Easy",
    "score":10
 
   }],
   "play": [],
-  
+
   "leaderboard": []
 }
